@@ -15,4 +15,4 @@ Beat up the squirrel or it will eat you.
      
 </pre>
 
-Copy and paste the code on [C++ Shell]](http://cpp.sh/), or play it in your favorite compiler console 
+Copy and paste the code on [C++ Shell]](http://cpp.sh/)  or play it in your favorite compiler console 
