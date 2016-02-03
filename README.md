@@ -14,3 +14,5 @@ Beat up the squirrel or it will eat you.
      \/   |__|                            \/      
      
 </pre>
+
+Copy and paste the code on [C++ Shell]](http://cpp.sh/), or play it in your favorite compiler console 
