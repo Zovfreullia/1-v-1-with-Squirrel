@@ -1,4 +1,4 @@
-1-v-1 with Squirrel
+Squirrel vs. You
 ===================
 
 C++ Console Output text-based game.
