@@ -1,6 +1,8 @@
 Squirrel vs. You
 ===================
 
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/mit-license-brightgreen.svg" alt="mit license"></a>
+
 C++ Console Output text-based game.
 
 Beat up the squirrel or it will eat you.
