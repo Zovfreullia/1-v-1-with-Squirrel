@@ -52,9 +52,7 @@ int main()
     cout << "HP: " << enemyHP << "nn";
     cout << "*************************nn";
     
-    do
-    {
-        
+    do {
         cout << "Do you want to ATTACK or DEFEND?nn";
         cout << "Press '1' to ATTACK or Press '2' to DEFEND: nn";
         cin >> choice;
@@ -92,6 +90,5 @@ int main()
     cout << "YOU FOUGHT THE GOOD FIGHT.nnn";
     
     return 0;
-    
     
 }
