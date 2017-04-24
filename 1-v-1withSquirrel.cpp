@@ -1,7 +1,6 @@
 
-// Copyright (c) 2013 Fatima Zenine Villanueva. All Rights Reserved.
+// Copyright (c) 2013 Kaira Villanueva. All Rights Reserved.
 //1-v-1: Monster and Player
-//Homework for Code Libertion Foundation
 
 #include <iostream>
 #include <string>
